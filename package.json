@@ -1,0 +1,18 @@
+{
+  "name": "tarea3",
+  "version": "0.0.0",
+  "description": "tarea3-cJS ==========",
+  "main": "tarea3.js",
+  "scripts": {
+	"start": "node tarea3.js"
+  },
+  "dependencies": {
+    "http": ">= 0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://54837ad7ecb8d47823000093@tarea3-tarea3.rhcloud.com/~/git/tarea3.git/"
+  },
+  "author": "",
+  "license": "ISC"
+}
